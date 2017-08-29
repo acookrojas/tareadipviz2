@@ -1,0 +1,38 @@
+html,body{
+  height:100%;
+  width:100%;
+  font-size: 100%;
+}
+body{
+  background:#ededed;
+  padding:2%;
+  font-family: 'Roboto Slab', serif;
+  font-size:1em;
+}
+h1 {
+  color: #f40056;
+}
+h3 {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #f40056;
+}
+div{
+  /*width: 500px;
+  max-width:80%;
+  padding:1em;
+  border:8px solid #0c46a0;
+  background:#fff;*/
+}
+.destacada {
+  width: 500px;
+  max-width:80%;
+  padding:1em;
+  border:8px solid;
+  border-color: #f40056;
+  background-color: #0c46a0;
+  color: white;
+}
+.separador {
+  height: 20px;
+}
